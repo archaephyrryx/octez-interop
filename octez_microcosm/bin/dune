@@ -1,4 +1,0 @@
-(executable
- (public_name octez_microcosm)
- (name main)
- (libraries octez_microcosm))
